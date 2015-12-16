@@ -1,0 +1,1 @@
+An implementation of the [Synacor Challenge](https://challenge.synacor.com/) in [Rust](http://rust-lang.org/). Yes, this is a little late. I discovered the challenge while reading about the [Advent of Code](http://adventofcode.com/) and decided to give it a shot.

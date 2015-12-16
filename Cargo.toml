@@ -1,0 +1,13 @@
+[package]
+name = "synacor"
+version = "0.1.0"
+authors = ["Micxjo Funkcio <micxjo@fastmail.com>"]
+license = "MIT"
+
+[lib]
+name = "synacor"
+path = "src/lib.rs"
+
+[[bin]]
+name = "synacor-vm"
+path = "src/main.rs"
